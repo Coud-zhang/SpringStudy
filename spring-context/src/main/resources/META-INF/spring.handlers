@@ -1,0 +1,5 @@
+http\://www.springframework.org/schema/context=org.springframework.context.com.zkq.config.ContextNamespaceHandler
+http\://www.springframework.org/schema/jee=org.springframework.ejb.com.zkq.config.JeeNamespaceHandler
+http\://www.springframework.org/schema/lang=org.springframework.scripting.com.zkq.config.LangNamespaceHandler
+http\://www.springframework.org/schema/task=org.springframework.scheduling.com.zkq.config.TaskNamespaceHandler
+http\://www.springframework.org/schema/cache=org.springframework.cache.com.zkq.config.CacheNamespaceHandler
